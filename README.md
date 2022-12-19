@@ -17,7 +17,7 @@ Model selection: cross_validation on the test data set and choosing among the mo
 1) reading_semi_structured_text
 2) exploring
 3) preprocessing
-4) stemming_lammitizing
+4) stemming_lemmatizing
 5) vectorizing
 6) feature_engineering
 7) ml_classifier_rf
